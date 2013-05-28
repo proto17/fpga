@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/main/fpga/delay/composite.xst" -ofn "/home/main/fpga/delay/composite.syr" 
+xst -intstyle ise -ifn "/home/main/fpga/delay/composite.xst" -ofn "/home/main/fpga/delay/composite.syr" 
+xst -intstyle ise -ifn "/home/main/fpga/delay/composite.xst" -ofn "/home/main/fpga/delay/composite.syr" 
+xst -intstyle ise -ifn "/home/main/fpga/delay/composite.xst" -ofn "/home/main/fpga/delay/composite.syr" 
+xst -intstyle ise -ifn "/home/main/fpga/delay/composite.xst" -ofn "/home/main/fpga/delay/composite.syr" 
